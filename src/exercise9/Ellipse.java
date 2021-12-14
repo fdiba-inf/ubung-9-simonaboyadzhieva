@@ -6,7 +6,7 @@ public class Ellipse {
     private double b;
 
     public Ellipse() {
-        startPoint = new Point( x: 0, y: 0);
+        startPoint = new Point( 0, 0);
         a = 1;
         b = 1;
     }
